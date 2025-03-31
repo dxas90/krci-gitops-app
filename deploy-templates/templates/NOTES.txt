@@ -1,0 +1,1 @@
+1. Application krci-gitops-app has been successfully deployed!!
